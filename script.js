@@ -1,6 +1,7 @@
 const rootElement = document.querySelector(":root");
 const song = document.querySelector('#song');
 const audioIcon = document.querySelector('.audio-icon');
+const icon = document.querySelector('.audio-icon i');
 let isPlaying = false;
 
 

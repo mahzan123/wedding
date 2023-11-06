@@ -243,8 +243,10 @@ footer a:hover {
   line-height: 0;
 }
 
-.audio-icon span {
-  font-size: 5rem;
+.audio-icon i {
+  font-size: 4rem;
+  box-shadow: 0 1px 5px rgb(255 255 255 / 0.8);
+  border-radius: 50%;
 }
 
 @keyframes rotating {
